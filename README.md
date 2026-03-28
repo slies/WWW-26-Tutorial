@@ -17,11 +17,7 @@ This tutorial focuses on cutting-edge research topics and provides curated paper
   <img src="image/logo.png"   height="200" />
 </p>
 
-### **Paper Title**
-
-*Generalist Model for Structured Data: Foundations, Frontiers and Applications*
-
-#### 📌 Basic Info
+### **Generalist Model for Structured Data: Foundations, Frontiers and Applications**
 
 * **Authors:** *Peng Cui, Xingxuan Zhang, Hanjia Ye, intai Chen, Shuyang Li*
 * **Year:** 2026
