@@ -4,19 +4,15 @@
   <tr>
     <td align="center">
       <img src="image/tsinghua.png" width="120"/><br>
-      University 1
     </td>
     <td align="center">
       <img src="image/nanjing.png" width="120"/><br>
-      University 2
     </td>
     <td align="center">
       <img src="image/hongkong.png" width="120"/><br>
-      Sponsor 1
     </td>
     <td align="center">
       <img src="image/stable.png" width="120"/><br>
-      Sponsor 1
     </td>
   </tr>
 </table>
