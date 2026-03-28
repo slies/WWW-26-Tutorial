@@ -44,7 +44,7 @@ Peng Cui is an Associate Professor with tenure in the Depart- ment of Computer S
 
 * 🏫 Affiliation: *Tsinghua University*
 * 🔬 Research Area: *computer vision, OOD Generalization, Domain Generalization, Optimization*
-* 🌐 Homepage: *https://scholar.google.com/citations?user=uutKFOYAAAAJ&hl=en&oi=ao*
+* 🌐 Google Scholar: *https://scholar.google.com/citations?user=uutKFOYAAAAJ&hl=en&oi=ao*
 
 **Bio:**
 Xingxuan Zhang is an Assistant Researcher in the Department of Computer Science at Tsinghua University, where he also re- ceived his PhD. His research interests lie in Foundation Models and Trustworthy AI, with a specialized focus on developing fun- damental modeling methods for structured data. He has published more than 30 papers in top-tier conferences and journals includ- ing ICLR, Neurips, ICML, WWW, CVPR, and ICCV, where he also served as a reviewer and program committee member.
@@ -54,7 +54,7 @@ Xingxuan Zhang is an Assistant Researcher in the Department of Computer Science 
 
 * 🏫 Affiliation: *Nanjing University*
 * 🔬 Research Area: *Machine Learning, Data Mining, Metric Learning, Meta-Learning*
-* 🌐 Homepage: *https://scholar.google.com/citations?user=mgOYhtoAAAAJ&hl=en&oi=ao*
+* 🌐 Google Scholar: *https://scholar.google.com/citations?user=mgOYhtoAAAAJ&hl=en&oi=ao*
 
 **Bio:**
 Han-Jia Ye is an Associate Professor in the School of Arti- ficial Intelligence at Nanjing University. His research centers on machine learning—especially representation learning, meta- learning, model reuse, and deep learning for tabular data. He received his Ph.D. in Computer Science from Nanjing University in 2019. He has served as Tutorial Co-Chair for SDM 2023 and Doctoral Forum Co-Chair for SDM 2022, and as an area chair for top-tier venues including ICML, NeurIPS, ICLR, AAAI, IJCAI, and CVPR. He leads the development of TALENT, a toolbox of representative deep tabular methods, and is organizing an AAAI 2026 tutorial on representation learning for structured tabular data.
@@ -64,7 +64,7 @@ Han-Jia Ye is an Associate Professor in the School of Arti- ficial Intelligence 
 
 * 🏫 Affiliation: *The Hong Kong University of Science and Technology (Guangzhou)*
 * 🔬 Research Area: *computer vision, OOD Generalization, Domain Generalization, Optimization*
-* 🌐 Homepage: *https://scholar.google.com/citations?user=ZiY3xYEAAAAJ&hl=en&oi=ao*
+* 🌐 Google Scholar: *https://scholar.google.com/citations?user=ZiY3xYEAAAAJ&hl=en&oi=ao*
 
 **Bio:**
 Jintai Chen is an Assistant Professor in the AI Thrust, Informa- tion Hub at The Hong Kong University of Science and Technology (Guangzhou). He received his PhD from Zhejiang University and later conducted postdoctoral research at the University of Illinois at Urbana–Champaign. His research centers on artificial intel- ligence for tabular data and healthcare, with a particular focus on developing foundation models for heterogeneous and noisy clinical and biomedical datasets. His broader interests include medical agents, clinical trial optimisation, and drug design.
@@ -74,7 +74,7 @@ Jintai Chen is an Assistant Professor in the AI Thrust, Informa- tion Hub at The
 
 * 🏫 Affiliation: *Stable AI*
 * 🔬 Research Area: *Deep Learning, Time Series Forecasting, Mobile Networks*
-* 🌐 Homepage: *https://scholar.google.com/citations?user=ItGCvS4AAAAJ&hl=en&oi=ao*
+* 🌐 Google Scholar: *https://scholar.google.com/citations?user=ItGCvS4AAAAJ&hl=en&oi=ao*
 
 **Bio:**
 Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in Electrical, Electronic, and Communications Engineering from Politecnico di Torino, Italy. After obtaining his PhD, he has been working as a researcher at Politecnico di Torino, collaborating on projects with Telecom Italia, and conducting research in mobile traffic forecasting and predictive maintenance. His research has been published in journals and conferences such as Computer Networks, ICC, WCNC, VTC, etc. His main research interests include time series analysis, synthetic data generation, cellular network optimization, and mobile traffic modeling.
