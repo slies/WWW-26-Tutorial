@@ -1,18 +1,10 @@
 # 🌐 WWW 2026 Tutorial Repository
 
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin-right:50px;">
-    <img src="image/tsinghua.png" height="80"/><br>
-  </span>
-  <span style="display:inline-block; text-align:center; margin-right:50px;">
-    <img src="image/nanjing.png" height="80"/><br>
-  </span>
-  <span style="display:inline-block; text-align:center;">
-    <img src="image/hongkong.png"  height="80"/><br>
-  </span>
-  <span style="display:inline-block; text-align:center;">
-    <img src="image/stable.png" height="80"/><br>
-  </span>
+  <img src="image/tsinghua.png"  height="80" style="margin-right:20px;"/>
+  <img src="image/nanjing.png" height="80" style="margin-right:20px;"/>
+  <img src="image/hongkong.png" height="80" style="margin-right:20px;"/>
+  <img src="image/stable.png" height="80"/>
 </p>
 
 ---
