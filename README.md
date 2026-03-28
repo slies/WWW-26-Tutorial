@@ -3,14 +3,6 @@
   <img src="image/TheACMWebConference.png"   height="250" />
 </p>
 
-<p align="center" style="display: flex; justify-content: space-around; align-items: center;>
-  <img src="image/tsinghua.png"   height="75" />
-  <img src="image/nanjing.png"  height="85 "/>
-  <img src="image/hongkong.png"  height="80" "/>
-  <img src="image/stable.png"  height="75" "/>
-</p>
-
-
 This repository contains materials for a tutorial presented at **The Web Conference 2026 (WWW 2026)**.
 
 * 🌍 Conference: The Web Conference (WWW 2026)
