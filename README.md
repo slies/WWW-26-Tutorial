@@ -1,21 +1,12 @@
 # 🌐 WWW 2026 Tutorial Repository
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="image/tsinghua.png" width="120"/><br>
-    </td>
-    <td align="center">
-      <img src="image/nanjing.png" width="120"/><br>
-    </td>
-    <td align="center">
-      <img src="image/hongkong.png" width="120"/><br>
-    </td>
-    <td align="center">
-      <img src="image/stable.png" width="120"/><br>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="image/tsinghua.png" height="80" style="margin-right:20px;"/>
+  <img src="image/nanjing.png" height="80" style="margin-right:20px;"/>
+  <img src="image/hongkong.png" height="80"/>
+  <img src="image/stable.png" height="80"/>
+</p>
+
 ---
 
 ## 📢 About WWW 2026
