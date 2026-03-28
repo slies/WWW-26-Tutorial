@@ -1,10 +1,10 @@
 # 🌐 WWW 2026 Tutorial Repository
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="image/tsinghua.png"  height="80" style="margin: 0 25px;"/>
-  <img src="image/nanjing.png" height="80" style="margin: 0 25px;"/>
-  <img src="image/hongkong.png" height="80" style="margin: 0 25px;"/>
-  <img src="image/stable.png" height="80" style="margin: 0 25px;"/>
+  <img src="image/tsinghua.png"  alt="Logo 1" height="80" style="margin: 0 30px;"/>
+  <img src="image/nanjing.png" alt="Logo 1" height="80" style="margin: 0 30px;"/>
+  <img src="image/hongkong.png" alt="Logo 1" height="80" style="margin: 0 30px;"/>
+  <img src="image/stable.png" alt="Logo 1" height="80" style="margin: 0 30px;"/>
 </p>
 
 
