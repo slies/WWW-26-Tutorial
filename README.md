@@ -3,10 +3,6 @@
   <img src="image/TheACMWebConference.png"   height="250" />
 </p>
 
-<p align="left" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
-  <img src="image/logo.png"   height="200" />
-</p>
-
 
 This repository contains materials for a tutorial presented at **The Web Conference 2026 (WWW 2026)**.
 
@@ -18,6 +14,9 @@ This tutorial focuses on cutting-edge research topics and provides curated paper
 
 
 ## 📄 Tutorial Paper
+<p align="left" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
+  <img src="image/logo.png"   height="200" />
+</p>
 
 ### **Paper Title**
 
