@@ -1,10 +1,7 @@
-# 🌐 WWW 2026 Tutorial Repository
-
-<p align="center" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
-  <img src="image/TheACMWebConference.png"   height="150" />
+<p align="left" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
+  <img src="image/TheACMWebConference.png"   height="500" />
 </p>
-
-
+# 🌐 WWW 2026 Tutorial Repository
 
 <p align="center" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
   <img src="image/tsinghua.png"   height="75" />
