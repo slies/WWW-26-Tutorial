@@ -1,1 +1,2 @@
-# WWW'26 Tutorial: Generalist Model for Structured Data: Foundations, Frontiers and Applications
+# WWW'26 Tutorial: 
+# Generalist Model for Structured Data: Foundations, Frontiers and Applications
