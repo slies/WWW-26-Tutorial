@@ -26,6 +26,11 @@ This tutorial focuses on cutting-edge research topics and provides curated paper
 * **Authors:** *Peng Cui, Xingxuan Zhang, Hanjia Ye, intai Chen, Shuyang Li*
 * **Year:** 2026
 
+#### Abstract
+Structured data constitutes one of the most ubiquitous data modalities in web-scale and enterprise applications, supporting tasks such as recommendation, forecasting, and user behavior analysis. Conventional modeling paradigms—ranging from generalized linear models and gradient boosting to deep structured networks—have provided strong baselines for predictive analytics and decision support. However, the recent emergence of foundation models and in-context learning (ICL) has sparked a new paradigm for structured modeling, moving from dataset-specific training toward universal, adaptable inference. Emerging structured foundation models illustrate how large-scale pretraining, synthetic data generation, and ICL-based inference can extend foundation-model principles to structured data. These developments open new possibilities for multi-task learning, zero-shot inference, and knowledge transfer across diverse structured settings. Yet, the space of structured foundation models remains largely unexplored, with open questions surrounding data generation, multi-task setting, pretraining objectives, and evaluation standards. 
+
+This tutorial will provide a structured overview of both conventional modeling and recent ICL-based approaches. Participants will gain a comprehensive understanding of established methods, current advances in foundation models, and open research challenges. In particular, we will offer an in-depth introduction to structured ICL and review the most representative foundation models in this field. Several key topics in this field will be discussed, including pretraining data generation, multi-task learning, and other emerging directions in the modeling of structured data. This tutorial aims to bridge conventional machine learning and the emerging foundation-model paradigm, providing attendees with conceptual and practical insights into structured data modeling in the era of generalist foundation models.
+
 
 ## 🧑‍🏫 Tutors
 
