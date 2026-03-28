@@ -1,4 +1,4 @@
-## 📢 About WWW 2026
+<img width="574" height="25" alt="image" src="https://github.com/user-attachments/assets/821c1ed4-54c4-4500-b17b-f88d8a970b96" /><img width="402" height="28" alt="image" src="https://github.com/user-attachments/assets/432dcd53-e3b0-4253-9746-9ba580154e88" /><img width="408" height="28" alt="image" src="https://github.com/user-attachments/assets/a7f087dd-daa8-4c7f-9d8d-069b420fd0f9" /><img width="540" height="28" alt="image" src="https://github.com/user-attachments/assets/8c1c51cc-1f0f-4384-af4e-577d07c0eccb" /><img width="323" height="28" alt="image" src="https://github.com/user-attachments/assets/d85097d5-552a-4f78-8205-954e23f1536a" /><img width="409" height="28" alt="image" src="https://github.com/user-attachments/assets/0ec57e98-5aa9-48ee-acdd-ab685927aaba" /><img width="274" height="28" alt="image" src="https://github.com/user-attachments/assets/a0f0686a-d91f-4e64-90df-cfda13594733" /><img width="274" height="28" alt="image" src="https://github.com/user-attachments/assets/c7c9d3e0-249e-409e-b2df-12e8d4b25121" /><img width="309" height="28" alt="image" src="https://github.com/user-attachments/assets/d2a65dd8-df8f-46b3-acd3-927a7fadd724" />## 📢 About WWW 2026
 <p align="left" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
   <img src="image/TheACMWebConference.png"   height="250" />
 </p>
@@ -129,6 +129,69 @@ Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in E
 
 * **Transformers can do bayesian inference**
 <br> https://arxiv.org/abs/2112.10510
+
+* **Revisiting Deep Learning Models for Tabular Data**
+<br> https://proceedings.neurips.cc/paper_files/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html
+
+* **Well-tuned Simple Nets Excel on Tabular Datasets**
+<br> https://proceedings.neurips.cc/paper/2021/hash/c902b497eb972281fb5b4e206db38ee6-Abstract.html
+
+* **An Inductive Bias for Tabular Deep Learning**
+<br> https://proceedings.neurips.cc/paper_files/paper/2023/file/8671b6dffc08b4fcf5b8ce26799b2bef-Paper-Conference.pdf
+
+* **On embeddings for numerical features in tabular deep learning**
+<br> https://proceedings.neurips.cc/paper_files/paper/2022/file/9e9f0ffc3d836836ca96cbf8fe14b105-Paper-Conference.pdf
+
+* **Representation Learning for Tabular Data: A Comprehensive Survey**
+<br> https://arxiv.org/pdf/2504.16109
+
+* **Better by default: Strong pre-tuned MLPs and boosted trees on tabular data**
+<br> https://proceedings.neurips.cc/paper_files/paper/2024/file/2ee1c87245956e3eaa71aaba5f5753eb-Paper-Conference.pdf
+
+* **TabR: Tabular deep learning meets nearest neighbors**
+<br> https://arxiv.org/abs/2307.14338
+
+* **Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later**
+<br> https://arxiv.org/pdf/2407.03257
+
+* **TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling**
+<br> https://arxiv.org/pdf/2410.24210?
+
+* **Unveiling the Role of Data Uncertainty in Tabular Deep Learning**
+<br> https://arxiv.org/abs/2509.04430
+
+* **Mechanism for feature learning in neural networks and backpropagation-free machine learning models**
+<br> https://www.science.org/doi/abs/10.1126/science.adi5639
+
+* **Danets: Deep abstract networks for tabular data classification and regression**
+<br> https://ojs.aaai.org/index.php/AAAI/article/view/20309
+
+* **A Closer Look at Deep Learning Methods on Tabular Datasets**
+<br> https://arxiv.org/abs/2407.00956
+
+* **Tabarena: A living benchmark for machine learning on tabular data**
+<br> https://arxiv.org/abs/2506.16791
+
+* **TALENT: A Tabular Analytics and Learning Toolbox**
+<br> https://www.jmlr.org/papers/v26/25-0512.html
+
+* **Making Pre-trained Language Models Great on Tabular Prediction**
+<br> https://arxiv.org/abs/2403.01841
+
+* **TabLLM: Few-shot Classification of Tabular Data with Large Language Models**
+<br> https://proceedings.mlr.press/v206/hegselmann23a.html
+
+* **Large Scale Transfer Learning for Tabular Data via Language Modeling**
+<br> https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html
+
+* **Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering**
+<br> https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c2df4c35cdbee764ebb9e9d0acd5197-Abstract-Conference.html
+
+* **Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**
+<br> https://arxiv.org/abs/2404.09491
+
+* **Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**
+<br> https://arxiv.org/abs/2404.09491
 
 * **The tabular foundation model tabpfn outperforms specialized time series forecasting models based on simple features**
 <br> https://arxiv.org/abs/2501.02945v3
