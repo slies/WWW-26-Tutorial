@@ -1,6 +1,6 @@
 ## 📢 About WWW 2026
 <p align="left" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
-  <img src="image/TheACMWebConference.png"   height="350" />
+  <img src="image/TheACMWebConference.png"   height="250" />
 </p>
 
 
