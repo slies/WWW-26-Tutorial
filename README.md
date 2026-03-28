@@ -2,7 +2,7 @@
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="image/tsinghua.png"   height="75" style="margin: 0 30px;"/>
-  <img src="image/nanjing.png"  height="90" style="margin: 0 30px;"/>
+  <img src="image/nanjing.png"  height="85 style="margin: 0 30px;"/>
   <img src="image/hongkong.png"  height="80" style="margin: 0 30px;"/>
   <img src="image/stable.png"  height="75" style="margin: 0 30px;"/>
 </p>
