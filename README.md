@@ -8,7 +8,7 @@ This repository contains materials for a tutorial presented at **The Web Confere
 
 * 🌍 Conference: The Web Conference (WWW 2026)
 * 📅 Date: June 29-July 3, 2026
-* 📍 Dubai, United Arab Emirates*
+* 📍 Dubai, United Arab Emirates
 
 This tutorial focuses on cutting-edge research topics and provides curated papers, notes, and supporting materials for participants.
 
