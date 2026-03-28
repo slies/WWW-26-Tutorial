@@ -1,9 +1,25 @@
 # 🌐 WWW 2026 Tutorial Repository
 
-<p align="center">
-  <img src="images/university-logo.png" alt="University Logo" width="180"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/tsinghua.png" width="120"/><br>
+      University 1
+    </td>
+    <td align="center">
+      <img src="image/nanjing.png" width="120"/><br>
+      University 2
+    </td>
+    <td align="center">
+      <img src="image/hongkong.png" width="120"/><br>
+      Sponsor 1
+    </td>
+    <td align="center">
+      <img src="image/stable.png" width="120"/><br>
+      Sponsor 1
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📢 About WWW 2026
@@ -28,7 +44,6 @@ This tutorial focuses on cutting-edge research topics and provides curated paper
 
 * **Authors:** *Peng Cui, Xingxuan Zhang, Hanjia Ye, intai Chen, Shuyang Li*
 * **Year:** 2026
-// * **Paper Link:** *(Insert link, e.g., arXiv or publisher)*
 
 ---
 ## 🧑‍🏫 Tutors
