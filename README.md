@@ -81,7 +81,57 @@ Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in E
 
 
 
-## 📌 Materials
+## 📌 Paper List
+* **LimiX: Unleashing structured-data modeling capability for generalist intelligence**
+<br> https://arxiv.org/abs/2509.03505
+
+* **Tabpfn: A transformer that solves small tabular classification problems in a second**
+<br> https://arxiv.org/abs/2207.01848
+
+* **A closer look at TabPFN v2: Understanding its strengths and extending its capabilities**
+<br> https://arxiv.org/abs/2502.17361
+
+* **TabPFN-2.5: Advancing the State of the Art in Tabular Foundation Models**
+<br> https://arxiv.org/abs/2511.08667
+
+* **Tabpfn unleashed: A scalable and effective solution to tabular classification problems**
+<br> https://arxiv.org/abs/2502.02527
+
+* **Accurate predictions on small data with a tabular foundation model**
+<br> https://www.nature.com/articles/s41586-024-08328-6
+
+* **Tabicl: A tabular foundation model for in-context learning on large data**
+<br> https://arxiv.org/abs/2502.05564
+
+* **TabICLv2: A better, faster, scalable, and open tabular foundation model**
+<br> https://arxiv.org/abs/2602.11139
+
+* **Tabdpt: Scaling tabular foundation models on real data**
+<br> https://arxiv.org/abs/2410.18164
+
+* **Why do tree-based models still outperform deep learning on typical tabular data?**
+<br> https://proceedings.neurips.cc/paper_files/paper/2022/hash/0378c7692da36807bdec87ab043cdadc-Abstract-Datasets_and_Benchmarks.html
+
+* **On Finetuning Tabular Foundation Models**
+<br> https://arxiv.org/abs/2506.08982
+
+* **Retrieval & Fine-Tuning for In-Context Tabular Models**
+<br> https://proceedings.neurips.cc/paper_files/paper/2024/hash/c40daf14d7a6469e65116507c21faeb7-Abstract-Conference.html
+
+* **Deep neural networks and tabular data: A survey**
+<br> https://ieeexplore.ieee.org/abstract/document/9998482
+
+* **Time-series forecasting with deep learning: a survey**
+<br> https://royalsocietypublishing.org/rsta/article/379/2194/20200209/41189
+
+* **A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges**
+<br> https://link.springer.com/article/10.1007/s10462-025-11223-9
+
+* **Transformers can do bayesian inference**
+<br> https://arxiv.org/abs/2112.10510
+
+* **The tabular foundation model tabpfn outperforms specialized time series forecasting models based on simple features**
+<br> https://arxiv.org/abs/2501.02945v3
 
 
 ## ⭐ Acknowledgements
