@@ -1,9 +1,9 @@
 # 🌐 WWW 2026 Tutorial Repository
 
 <p align="center">
-  <img src="image/tsinghua.png"  height="80" style="margin-right:40px;"/>
-  <img src="image/nanjing.png" height="80" style="margin-right:40px;"/>
-  <img src="image/hongkong.png" height="80" style="margin-right:40px;"/>
+  <img src="image/tsinghua.png"  height="80" style="margin-right:60px;"/>
+  <img src="image/nanjing.png" height="80" style="margin-right:60px;"/>
+  <img src="image/hongkong.png" height="80" style="margin-right:60px;"/>
   <img src="image/stable.png" height="80"/>
 </p>
 
