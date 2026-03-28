@@ -1,6 +1,6 @@
 # 🌐 WWW 2026 Tutorial Repository
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center" style="display: flex; justify-content: space-around; align-items: center; margin: 40px 0;">
   <img src="image/tsinghua.png"   height="75" style="margin: 0 30px;"/>
   <img src="image/nanjing.png"  height="85 style="margin: 0 30px;"/>
   <img src="image/hongkong.png"  height="80" style="margin: 0 30px;"/>
