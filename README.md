@@ -187,6 +187,15 @@ Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in E
 * **The tabular foundation model tabpfn outperforms specialized time series forecasting models based on simple features**
 <br> https://arxiv.org/abs/2501.02945v3
 
+* **Turning tabular foundation models into graph foundation models**
+<br> https://arxiv.org/abs/2508.20906
+
+* **Of graphs and tables: Zero-shot node classification with tabular foundation models**
+<br> https://openreview.net/pdf?id=u3vyZf5Jv2
+
+* **Tabular Foundation Models are Strong Graph Anomaly Detectors**
+<br> https://arxiv.org/pdf/2601.17301
+
 
 ## ⭐ Acknowledgements
 
