@@ -181,9 +181,6 @@ Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in E
 * **Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**
 <br> https://arxiv.org/abs/2404.09491
 
-* **Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**
-<br> https://arxiv.org/abs/2404.09491
-
 * **The tabular foundation model tabpfn outperforms specialized time series forecasting models based on simple features**
 <br> https://arxiv.org/abs/2501.02945v3
 
