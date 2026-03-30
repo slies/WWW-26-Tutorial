@@ -63,7 +63,7 @@ Jintai Chen is an Assistant Professor in the AI Thrust, Informa- tion Hub at The
 
 ### Shuyang Li
 
-* 🏫 Affiliation: *Stable AI*
+* 🏫 Affiliation: *Tsinghua University*
 * 🔬 Research Area: *Deep Learning, Time Series Forecasting, Mobile Networks*
 * 🌐 Google Scholar: *https://scholar.google.com/citations?user=ItGCvS4AAAAJ&hl=en&oi=ao*
 
