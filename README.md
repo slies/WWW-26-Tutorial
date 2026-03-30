@@ -196,7 +196,7 @@ Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in E
 
 ## ⭐ Acknowledgements
 
-We thank the organizers of WWW 2026 and all contributors to this tutorial.
+We thank the organizers of WWW 2026, all contributors to this tutorial, and Jiawei Chen (Beihang University) for assisting us in preparing the materials.
 
 
 <p align="center">
