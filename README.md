@@ -68,7 +68,7 @@ Jintai Chen is an Assistant Professor in the AI Thrust, Informa- tion Hub at The
 * 🌐 Google Scholar: *https://scholar.google.com/citations?user=ItGCvS4AAAAJ&hl=en&oi=ao*
 
 **Bio:**
-Shuyang Li is a Research Scientist at Stable AI. He received his PhD degree in Electrical, Electronic, and Communications Engineering from Politecnico di Torino, Italy. After obtaining his PhD, he has been working as a researcher at Politecnico di Torino, collaborating on projects with Telecom Italia, and conducting research in mobile traffic forecasting and predictive maintenance. His research has been published in journals and conferences such as Computer Networks, ICC, WCNC, VTC, etc. His main research interests include time series analysis, synthetic data generation, cellular network optimization, and mobile traffic modeling.
+Shuyang Li is a Postdoctoral Researcher in the Department of Computer Science at Tsinghua University. He received his PhD degree in Electrical, Electronic, and Communications Engineering from Politecnico di Torino, Italy. After obtaining his PhD, he has been working as a researcher at Politecnico di Torino, collaborating on projects with Telecom Italia, and conducting research in mobile traffic forecasting and predictive maintenance. His research has been published in journals and conferences such as Computer Networks, ICC, WCNC, VTC, etc. His main research interests include time series analysis, synthetic data generation, cellular network optimization, and mobile traffic modeling.
 
 
 
