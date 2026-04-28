@@ -12,7 +12,7 @@
   <img src="image/logo.png"   height="200" />
 </p>
 
-* **Authors:** *Peng Cui, Xingxuan Zhang, Hanjia Ye, intai Chen, Shuyang Li*
+* **Authors:** *Peng Cui, Xingxuan Zhang, Hanjia Ye, Jintai Chen, Shuyang Li*
 * **Year:** 2026
 
 * **Abstract:**
