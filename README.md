@@ -193,6 +193,14 @@ Shuyang Li is a Postdoctoral Researcher in the Department of Computer Science at
 * **Tabular Foundation Models are Strong Graph Anomaly Detectors**
 <br> https://arxiv.org/pdf/2601.17301
 
+## Citation
+@inproceedings{cui2026generalist,
+  title={Generalist Model for Structured Data: Foundations, Frontiers and Applications},
+  author={Cui, Peng and Zhang, Xingxuan and Ye, Han-Jia and Chen, Jintai and Li, Shuyang},
+  booktitle={Companion Proceedings of the ACM Web Conference 2026},
+  pages={58--61},
+  year={2026}
+}
 
 ## ⭐ Acknowledgements
 
