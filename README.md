@@ -194,6 +194,7 @@ Shuyang Li is a Postdoctoral Researcher in the Department of Computer Science at
 <br> https://arxiv.org/pdf/2601.17301
 
 ## Citation
+```bibtex
 @inproceedings{cui2026generalist,
   title={Generalist Model for Structured Data: Foundations, Frontiers and Applications},
   author={Cui, Peng and Zhang, Xingxuan and Ye, Han-Jia and Chen, Jintai and Li, Shuyang},
